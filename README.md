@@ -1,6 +1,6 @@
 🧠 Deep Learning – MNIST Digit Classification
 
-""Open In Colab" (https://colab.research.google.com/assets/colab-badge.svg)" (https://colab.research.google.com/drive/1wuv_SNOsAuLGJyDUoiQ_g7OtLNsSndEG?usp=sharing)
+""Open In Colab (https://colab.research.google.com/drive/1wuv_SNOsAuLGJyDUoiQ_g7OtLNsSndEG?usp=sharing)
 
 📌 About
 
